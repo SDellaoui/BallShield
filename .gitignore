@@ -4,3 +4,11 @@
 Library/metadata/
 
 *.log
+
+.vscode/
+
+__Builds/
+
+*.csproj
+
+*.sln

@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Wall
+  - Player
+  - PlayerTriggerRange
+  - Ball
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2074251561
+    locked: 0
+  - name: Wall
+    uniqueID: 933854805
+    locked: 0
+  - name: Player
+    uniqueID: 905123339
+    locked: 0
+  - name: Ball
+    uniqueID: 1264172895
     locked: 0
